@@ -1,0 +1,4 @@
+#Tue Jun 28 01:57:36 HKT 2016
+-Xms=128m
+-XX\:MaxPermSize\==256m
+-Xmx=1024m

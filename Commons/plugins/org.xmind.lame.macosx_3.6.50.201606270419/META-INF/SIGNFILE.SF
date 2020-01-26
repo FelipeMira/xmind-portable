@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: yzdQ5yw6skMfDQ8J2tPzD5sNx+eeY
+ +T1QfB3ocV6HFM=
+SHA-256-Digest-Manifest: C0l353dDUjTUnqNuJf7MtmX/P8HdFO3V8mNjeNRefhA=
+Created-By: 1.7.0_75 (Oracle Corporation)
+
+Name: META-INF/maven/org.xmind.meggy.plugins/org.xmind.lame.macosx/pom
+ .xml
+SHA-256-Digest: IFiQUMZU/DFICgoQf4agpB/lQfkVbuw9nJAs+zwBW2E=
+
+Name: META-INF/maven/org.xmind.meggy.plugins/org.xmind.lame.macosx/pom
+ .properties
+SHA-256-Digest: C/bpSBVFFX24dvIu3wONBA4ln++6BhMJVZ5B+Rov7rE=
+
+Name: fragment_lame_macosx.properties
+SHA-256-Digest: tZujSpYkydQEoSLcROvGr7AoRGxLQqFp47jSI0mTPOo=
+
+Name: lame-3.97/x86/lame
+SHA-256-Digest: RMKUi67My7PHaYt3xdYwZen4lMAglAz6Qee86KmlAjY=
+
+Name: lame.properties
+SHA-256-Digest: DH84hRGXq1r3b7imcIyJOmQZbIHqTt91RNLbCqivmyM=
+
+Name: about.html
+SHA-256-Digest: ZKEhw9njgzuMy89HJZGXlXEH0QubozSQW3CybtrsXUE=
+
+Name: lame-3.97/ppc/lame
+SHA-256-Digest: QAMlu3Sd+/PqOxcSPGCZp830LVs8hBIzZ/F9XhOGS/A=
+

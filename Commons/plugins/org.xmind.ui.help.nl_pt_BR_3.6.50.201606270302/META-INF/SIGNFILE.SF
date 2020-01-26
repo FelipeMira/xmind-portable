@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: OE+8m19KUAusxAxw2CG6OsCyAXLZq
+ 0/o5LF0IRpxcKg=
+SHA-256-Digest-Manifest: +3o16iIejl+6llu90/dumSnCR5zMi3+fyH+GJJNnoB8=
+Created-By: 1.7.0_75 (Oracle Corporation)
+
+Name: about.html
+SHA-256-Digest: EehnTX8JoKUM7lVVz5aMsK3YzZWji0QRia1h+JGauz8=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_pt_BR
+ /pom.xml
+SHA-256-Digest: LZv2q34yjejceuS5T3hWbKeZSbt2sBdJY04G9sClJNE=
+
+Name: plugin_pt_BR.properties
+SHA-256-Digest: lwZMIi8SrFtmAFzUwdz9XrQg6W3QvzjcAbnKhAviUWY=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_pt_BR
+ /pom.properties
+SHA-256-Digest: mPQdWd6mk9A3IvIC/E0sEPitrROGxVWbBpQwzVKZgIw=
+
